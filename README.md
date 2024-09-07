@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning web development <br>🎯 Goals:<br>            Completing 100days of code challenge and grabbing a internship.<br>          🔍 Improve problem-solving skills and algorithms.<br>🛠️ Build and contribute to open-source projects.</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning web development <br>🎯 Goals:<br>🏆Completing 100days of code challenge and grabbing a internship.<br>🔍 Improve problem-solving skills and algorithms.<br>🛠️ Build and contribute to open-source projects.</p>
 
 ###
 
@@ -37,10 +37,10 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+ <a href="https://www.instagram.com/ankit__mamgai?igsh=MWh0enJnbHkwOXNqbQ=="> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /></a>
+  <a href="linkedin.com/in/ankit-mamgai-b97371226">  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
+  <a href="https://t.me/ankitmamgai01">  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  /></a>
+  <a href="mailto:ankitmamgai98@gmail.com">  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
 </div>
 
 ###
