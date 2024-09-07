@@ -32,9 +32,15 @@
 
 ###
 
-<br clear="both">
+<p align="left">Connect with me</p>
+
+###
 
 <div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
 
 ###
@@ -43,6 +49,25 @@
 
 ###
 
+<br clear="both">
+
+<div align="left">
+</div>
+
+###
+
 <p align="left"></p>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Ankit-gt/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src=""  />
+</div>
 
 ###
