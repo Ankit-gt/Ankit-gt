@@ -35,7 +35,7 @@
 ###
 ### 
 ###
-<p align="left">Connect with me</p>
+# <p align="left">Connect with me</p>
 
 ###
 <div align="left">
